@@ -45,8 +45,8 @@ class Performance_Checkup_Admin_Page {
 	 */
 	public function add_admin_menu() {
 		add_menu_page(
-			'Performance Checkup',
-			'Performance Checkup',
+			'Performance Pro',
+			'Performance Pro',
 			'manage_options',
 			'performance-checkup',
 			array( $this, 'render_page' ),

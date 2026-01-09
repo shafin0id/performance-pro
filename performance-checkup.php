@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Performance Checkup
+ * Plugin Name: Performance Pro
  * Plugin URI: https://github.com/shafinoid/performance-checkup
  * Description: A simple diagnostic tool that helps site admins spot common performance red flags without overwhelming them. Tracks query counts, slow queries, and memory usage in wp-admin only.
  * Version: 1.0.0
